@@ -4,3 +4,4 @@ pytest-django
 pytest-factoryboy
 pytest-cov
 faker
+psycopg2>=2.8.6,<2.9
